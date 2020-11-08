@@ -1,0 +1,21 @@
+
+body {
+  background-color: #d9e4dd;
+}
+
+hr {
+  border: none;
+  border-top: dotted 6px;
+  /* Can also be written border-style: dotted none none; */
+  color: mintcream;
+  width: 5%;
+}
+
+h1 {
+    color: #28abb9;
+}
+
+h3 {
+    color: #28abb9;
+}
+
